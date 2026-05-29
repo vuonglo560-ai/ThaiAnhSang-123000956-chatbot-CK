@@ -1,0 +1,9 @@
+streamlit
+pandas
+requests
+underthesea
+langdetect
+wordcloud
+matplotlib
+openpyxl
+fpdf
